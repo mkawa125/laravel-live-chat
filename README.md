@@ -25,7 +25,7 @@
 ```
 
 ### Run Application
-> This should start server using nodemon because is already installed
+> This should start server
 ```sh
 - php artisan serve
 ```
